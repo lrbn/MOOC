@@ -1,2 +1,2 @@
 #Part I of the MOOC
-http://www.screencast.com/t/FUI6Vfbqhn﻿
+http://mooc.fi/courses/2013/programming-part-1/material.html
